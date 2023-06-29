@@ -1,0 +1,1 @@
+<ArrayOfFraction xmlns="http://schemas.datacontract.org/2004/07/Dz19_" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Fraction><Denominator>2</Denominator><Numerator>1</Numerator></Fraction><Fraction><Denominator>5</Denominator><Numerator>4</Numerator></Fraction><Fraction><Denominator>2</Denominator><Numerator>3</Numerator></Fraction></ArrayOfFraction>
